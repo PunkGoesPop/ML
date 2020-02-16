@@ -1,3 +1,5 @@
 # ML
-Machine Leanring
-Practising ML with python
+Machine Learning
+
+
+Practising with python
